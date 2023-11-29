@@ -1,5 +1,12 @@
 # Changelog
 
+## [12.1.1](https://github.com/web3-storage/w3up/compare/upload-client-v12.1.0...upload-client-v12.1.1) (2023-11-29)
+
+
+### Fixes
+
+* floating promises and add no-floating-promises to eslint-config-w3up ([#1198](https://github.com/web3-storage/w3up/issues/1198)) ([1b8c5aa](https://github.com/web3-storage/w3up/commit/1b8c5aa86ec3d177bf77df4e2916699c1f522598))
+
 ## [12.1.0](https://github.com/web3-storage/w3up/compare/upload-client-v12.0.2...upload-client-v12.1.0) (2023-11-25)
 
 
